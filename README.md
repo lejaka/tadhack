@@ -1,4 +1,4 @@
-# BootstrapDylut
+# AppName
 The application was done during MTN TadHack Hackathon
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8
 And it using [Material Design for Bootstrap](https://mdbootstrap.com/docs/angular/)
